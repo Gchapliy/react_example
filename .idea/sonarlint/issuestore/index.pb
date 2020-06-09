@@ -23,10 +23,6 @@ F
 src/containers/App.css,6\8\68f579fc5875999174eb0d909a3f66d3f85ad3a3
 =
 src/index.css,c\5\c5d38a62d1faae90a2acaa34b79a7ef365c917e4
-P
- src/components/Layout/Layout.css,d\c\dc7d2e8e25e0912130f43027d171c332eccce870
-O
-src/components/Layout/Layout.js,a\3\a39dce0a5cc1e53785ace214d3d00a6dbf9fcabf
 k
 ;src/components/Burger/BurgerIngredient/BurgerIngredient.css,2\f\2fb1a6904cfb4f4405254ca5ca3d514b00bcd997
 P
@@ -44,8 +40,6 @@ Q
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-?
-src/hoc/Auxx.js,7\2\7216033a21d31cfb9a5e33d7f2641e0df75810e8
 d
 4src/components/Burger/BuildControls/BuildControls.js,9\7\971814656749f9fec12cb60f1058eec58c4b55c7
 p
@@ -88,3 +82,13 @@ R
 "src/components/UI/Button/Button.js,c\0\c0e3aad75f31ea1def7c93e4617a3dd6cfd772e4
 b
 2src/components/Navigation/SideDrawer/SideDrawer.js,5\2\52004474c5281870f14fc9082d82731856fd136c
+r
+Bsrc/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.css,9\9\99082d7d255ac783bdeb322deaece9c9f1f08e29
+q
+Asrc/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.js,8\2\82e0c76f8c3826abf8c9fc54858c87561d9440a7
+D
+src/hoc/Auxx/Auxx.js,2\6\26b2315e37a012d85256f8d7f29943f50ba347d3
+I
+src/hoc/Layout/Layout.css,9\a\9a80c968dc2984a634d7727f183e2489aeef7c9a
+H
+src/hoc/Layout/Layout.js,d\4\d4ce640334105427499679f44c3fbf1b612121e4
