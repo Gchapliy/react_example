@@ -92,3 +92,13 @@ I
 src/hoc/Layout/Layout.css,9\a\9a80c968dc2984a634d7727f183e2489aeef7c9a
 H
 src/hoc/Layout/Layout.js,d\4\d4ce640334105427499679f44c3fbf1b612121e4
+U
+%src/components/UI/Spinner/Spinner.css,c\2\c203d414038e5c7ba7fa45d8496317642b02f437
+T
+$src/components/UI/Spinner/Spinner.js,9\b\9b168205d60b57142f96616491c2c461605e5e02
+\
+,src/hoc/withErrorHandler/withErrorHandler.js,f\a\fa9733c949d340d4f5363d3762207ad43abe2f2f
+C
+src/axios-orders.js,3\d\3d969857e4cd1b3c9d510c5ee42ff3a4a7d8827f
+A
+package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
