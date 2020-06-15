@@ -102,3 +102,19 @@ C
 src/axios-orders.js,3\d\3d969857e4cd1b3c9d510c5ee42ff3a4a7d8827f
 A
 package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
+h
+8src/components/Order/CheckoutSummary/CheckoutSummary.css,e\b\eb44d1c3ead3253a9d6a87938d5c5935cab01443
+g
+7src/components/Order/CheckoutSummary/CheckoutSummary.js,d\a\da8889ed8f6557cd79b333a64c3a6f78c985cc65
+N
+src/components/Order/Order.css,e\7\e7d49b6884d157948cd6ba27992aa877fee2c335
+M
+src/components/Order/Order.js,7\8\786f4b2bb1dec42941b6edae18edaeac6a323059
+c
+3src/containers/Checkout/ContactData/ContactData.css,7\3\73405593073494fa7dcfd294dc4c41020bd830fe
+b
+2src/containers/Checkout/ContactData/ContactData.js,b\a\ba0325111b633539da83a9dc9d1a720896978224
+O
+src/containers/Orders/Orders.js,a\6\a6ae2cbe6694f7d3d39b1781cf512c1aa29c6464
+S
+#src/containers/Checkout/Checkout.js,0\8\08ab5a739f0d24d2230cbe8965ec16d13e1670ce
