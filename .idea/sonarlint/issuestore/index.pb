@@ -118,3 +118,7 @@ O
 src/containers/Orders/Orders.js,a\6\a6ae2cbe6694f7d3d39b1781cf512c1aa29c6464
 S
 #src/containers/Checkout/Checkout.js,0\8\08ab5a739f0d24d2230cbe8965ec16d13e1670ce
+Q
+!src/components/UI/Input/Input.css,c\0\c08677543fc71586731883d20c9207136d63cb6c
+P
+ src/components/UI/Input/Input.js,1\5\15149ead89c1b561ca3494d4c9068572dff80367
