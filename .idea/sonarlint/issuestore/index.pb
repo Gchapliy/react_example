@@ -134,3 +134,7 @@ S
 #src/store/reducers/burgerBuilder.js,2\2\220317b79f5a4b794f37e2d6fd1d38e8b6a0c18b
 K
 src/store/reducers/order.js,f\2\f2f374c873ab489f91e4ef6bc854dc05e9433d04
+D
+src/store/utility.js,9\0\908159f7c4ff7574cc44df669b9f3c86bdb2843b
+P
+ src/store/actions/actionTypes.js,4\6\463ee0598b70e0185ddaca369ce9d791577a418b
