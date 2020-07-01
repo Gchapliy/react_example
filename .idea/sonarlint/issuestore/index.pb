@@ -122,8 +122,6 @@ Q
 !src/components/UI/Input/Input.css,c\0\c08677543fc71586731883d20c9207136d63cb6c
 P
  src/components/UI/Input/Input.js,1\5\15149ead89c1b561ca3494d4c9068572dff80367
-Q
-!src/store/actions/actionsTypes.js,d\9\d9a03377a4c94ec0853f00c895ae2e80aadf8341
 R
 "src/store/actions/burgerBuilder.js,e\8\e853ed4b66e57b20c6ba853b4fd8ece41f222ef9
 J
@@ -138,3 +136,9 @@ D
 src/store/utility.js,9\0\908159f7c4ff7574cc44df669b9f3c86bdb2843b
 P
  src/store/actions/actionTypes.js,4\6\463ee0598b70e0185ddaca369ce9d791577a418b
+L
+src/containers/Auth/Auth.css,3\9\39404ab5491541a81cd5ffd9b4fdd9973b09c002
+K
+src/containers/Auth/Auth.js,6\2\62062c9087e5d86cfa25843fdabb679e58022ccc
+I
+src/store/actions/auth.js,6\a\6adb01efc039bc8a4de3ac3bafcb3d9d5ba92d37
