@@ -142,3 +142,5 @@ K
 src/containers/Auth/Auth.js,6\2\62062c9087e5d86cfa25843fdabb679e58022ccc
 I
 src/store/actions/auth.js,6\a\6adb01efc039bc8a4de3ac3bafcb3d9d5ba92d37
+J
+src/store/reducers/auth.js,a\a\aa860c86f721121f4cd20fb45dba4bb89b1e81e3
