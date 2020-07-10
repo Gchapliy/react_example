@@ -144,3 +144,5 @@ I
 src/store/actions/auth.js,6\a\6adb01efc039bc8a4de3ac3bafcb3d9d5ba92d37
 J
 src/store/reducers/auth.js,a\a\aa860c86f721121f4cd20fb45dba4bb89b1e81e3
+T
+$src/containers/Auth/Logout/Logout.js,3\5\35868a8aa4bbf345b326fe684c3e5128116401c3
